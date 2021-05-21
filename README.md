@@ -1,0 +1,2 @@
+# M-assignment
+Static site 
